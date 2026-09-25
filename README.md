@@ -15,7 +15,7 @@ Currently working on personal & university projects!
 ---
 
 ### 🔭 Currently working on
-- Automation scripts in Python (Selenium + Pandas) to monitor a Salesforce-fed Excel dashboard
+
 - Personal & university projects (Computer Science • UNINOVE)
 
 ### 🌱 Currently learning
