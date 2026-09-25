@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maria Eduarda 👋</h1>
+<p align="center">Hi, I'm Maria Eduarda 👋</p>
 
 <p align="center">
 Computer Science student<br>
@@ -33,8 +33,7 @@ Currently working on personal & university projects!
 
 ### 📜 Certifications
 - IBM Data Analyst Professional Certificate (in progress)
-- Google AI Essentials
-- Cambridge Linguaskill — English B2/C1
+- Cambridge Linguaskill — English C1
 
 ### 📫 Connect with me
 - LinkedIn: [https://www.linkedin.com/in/mariaeduardangomes?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/mariaeduardangomes?utm_source=share_via&utm_content=profile&utm_medium=member_android)
